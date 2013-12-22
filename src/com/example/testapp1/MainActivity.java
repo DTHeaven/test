@@ -11,7 +11,7 @@ import android.view.Window;
 
 public class MainActivity extends SlidingFragmentActivity {
 
-	private static final String TAG = "123MainActivity";
+	private static final String TAG = "456MainActivity";
 	
 	protected SlidingMenu mSlidingMenu;
 	protected ListFragment mFrag;
