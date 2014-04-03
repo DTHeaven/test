@@ -25,6 +25,8 @@ public class MainActivity extends SlidingFragmentActivity {
 		setBehindContentView(R.layout.menu_frame);
 		setContentView(R.layout.activity_main);
 		init(savedInstanceState);
+		
+//		
 	}
 
 	private void init(Bundle savedInstanceState)
