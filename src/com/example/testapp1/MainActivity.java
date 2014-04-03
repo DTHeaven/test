@@ -26,7 +26,7 @@ public class MainActivity extends SlidingFragmentActivity {
 		setContentView(R.layout.activity_main);
 		init(savedInstanceState);
 		
-//		test branch
+//		master branch
 	}
 
 	private void init(Bundle savedInstanceState)
